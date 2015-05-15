@@ -5,6 +5,8 @@
 #
 #  Takes a German dictionary and replaces the
 #  character sequence 'dis' with '**DISS**'
+#  Finally it saves the string as a Markdown file
+#  which then can be compiled as a PDF with Pandoc.
 #
 #  Copyright 2015 Axel Dürkop <axel.duerkop@tu-harburg.de>
 #
