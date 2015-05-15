@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.4
 # -*- coding: utf-8 -*-
 #
-#  DissReplacement.py
+#  DisReplacement.py
 #
 #  Takes a German dictionary and replaces the
 #  character sequence 'dis' with '**DISS**'
